@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<h1>Music Recommendations</h1>
+  <ul>
+    <li>Korean Music</li>
+    <li>English Music</li>
+    <li>No Lyric Music</li>
+  </ul>
+  
+  <h2>Korean Music Recommendations</h2>
+    <p>
+      Today I would like to recommend a korean artist that I've been listening to a lot more recently
+      So if you are looking for someone with more chilled music, then I recommend this korean artist known as IU!
+      She recently release a song that got immediately added to my playlist so you should definitely check her out.
+      Here's a link to her new song called "Celebrity" <a href="https://youtu.be/0-q1KafFCLU">Celebrity by IU</a>
+     </p>
+     
+  <h2>English Music Recommendations</h2>
+    <p>
+      I want to introduce an artist that I listen to a lot on the daily,
+      And he's known as Keshi!!
+      Here's a link to his spotify page <a href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=VUopyU8HSv-G1KO3Yv0gog">Keshi on Spotify</a>
+    </p>
+    
+  <h2>No Lyric Music Recommendations</h2>
+    <p>
+      If you are looking for some soft and calming music while you do work, Japanese Lofi Music is perfect for you
+      I recommend this because I have been listening to this type of lofi music more recently while doing homework
+      Here's a link to the playlist I'm listening to right now <a href="https://youtu.be/XN41UJ7EZ4E">Japanese Lofi Playlist</a>
+    </p>
