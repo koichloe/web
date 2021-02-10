@@ -1,7 +1,12 @@
 body {
-  background-color: lightblue;
+  background-color: #DFE1EB;
   }
   
 h1 {
-  font: italic smaller serif;
+  font: italic larger serif;
+  }
+
+h2 {
+  font: italic 1.2em serif;
+  color: #86A1C2;
   }
