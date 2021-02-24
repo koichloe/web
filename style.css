@@ -1,7 +1,5 @@
 nav {
-    border-bottom: 4px double;
-    border-top: 4px double;
-    border-left: 4px double;
+    border-style: solid none double solid;
 }
 
 .koi ul {
