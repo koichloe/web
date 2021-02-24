@@ -19,6 +19,9 @@ nav {
 p {
   font-family: "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
   font-size: 20px;
+  }
+
+body {
   background-color: #DFE1EB;
   border-style: inset;
-  }
+}
