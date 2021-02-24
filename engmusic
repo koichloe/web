@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+  <title>English Music Recommendations</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+<nav class="koi">
+  <ul>
+    <li class="koi"><a href= >Home</a></li>
+    <li class="koi"><a href= >Korean Music</a></li>
+    <li class="koi"><a href= >English Music</a></li>
+    <li class="koi"><a href= >No Lyric Music</a></li>
+  </ul>
+</nav>
+
+     <p>
+      I want to introduce an artist that I listen to a lot on the daily, and he's known as Keshi!<br>
+      I love how you can play his music in any scenario like on the train to school, or right before you sleep.<br>
+      Here's a link to his spotify page <a href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=VUopyU8HSv-G1KO3Yv0gog">Keshi on Spotify</a><br>
+    </p>
+</body>
+    
+</html>
