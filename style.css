@@ -17,12 +17,8 @@ nav {
   
 
 body {
+  font-family: "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
+  font-size: 20px;
   background-color: #DFE1EB;
-  font-family: 
   border-style: inset;
-  }
-
-h2 {
-  font: italic 1.2em "Fira Sans", serif;
-  color: #86A1C2;
   }
