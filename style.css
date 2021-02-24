@@ -24,4 +24,5 @@ p {
 body {
   background-color: #DFE1EB;
   border-style: inset;
+  border-width: 2ex 2ex;
 }
