@@ -1,22 +1,26 @@
 nav {
     border-style: solid double double solid;
     border-width: 4px;
-    padding: 10px;
-    margin: 10px;
 }
 
 .koi ul {
+  text-align: center;
   font-family: "Helvetica Neue";
   font-style: italic;
   font-weight: 300;
   font-size: 25px;
   letter-spacing: 1px;
+  padding: 5px;
+  margin: 5px;
 }
 
 .koi {
   display: inline-block;
 }
   
+h2 {
+    text-align: center;
+    font-size: 50px
 
 p {
   font-family: "Helvetica Neue";
