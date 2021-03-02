@@ -47,6 +47,10 @@ a {
 }
 
 .box {
-  display: flex;
-  align-content: space-between;
+   display: flex;
+}
+
+.container {
+    flex: 50%;
+    padding: 20px;
 }
