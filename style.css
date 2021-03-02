@@ -48,4 +48,5 @@ a {
 
 .box {
   display: flex;
+  align-content: center;
 }
