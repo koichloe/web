@@ -45,3 +45,7 @@ body {
 a {
    color: "purple";
 }
+
+.box {
+  display: flex;
+}
