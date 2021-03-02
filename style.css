@@ -48,5 +48,5 @@ a {
 
 .box {
   display: flex;
-  align-content: center;
+  align-content: space-between;
 }
