@@ -25,8 +25,14 @@
   <br>
   <h2> How does it Work? </h2>
     <p> By using the input() function in python, the user is able to input an artist of their choice.
-      And after the program acquires the name of an artist, it goes through each element of a modified list of the original data set. The
-      modified list cuts the orignal data set into only songs that were on the charts from the 2000's. 
+      And after the program acquires the name of an artist, it goes through multiple functions to find the songs of that artist in the
+      data set. I created a modified list function that cuts the orignal data set into a list of lists that includes all the information 
+      of each songs that were on the charts from the 2000's as an element of that list. And then another function searches through the 
+      modifed list to find every list in that list that has a song by the artist. Then, it reorganizes the lists of every time a song
+      by the artist has been on the charts into a dictionary where the keys are all the songs that's appeared and the values is a list
+      of all the position the song has ever been on the charts. Then, it changes the values of the dictionary into a list of only the
+      highest position the song has ever been on the charts by running an outside function that would determine the smallest value in
+      a list. And the final part of the program prints out the name of an aritst and then it's peak position. 
     </p>
   <br>
   <h2> Files </h2>
@@ -41,8 +47,8 @@
   <br>
   <h2> Resources </h2>
       <a href = https://data.world/kcmillersean/billboard-hot-100-1958-2017> Dataset <a>
-        <p> This was the offical site that I got my dataset from and with all the information it had, I could do a lot with it but I created
-          one for this project. The dataset includes information like:
+        <p> This was the offical site that I got my dataset from and with all the information it had, I could do a lot with it but I 
+          created one for this project. The dataset includes information like:
            <ul> 
              <li> Billboard Chart URL </li>
              <li> WeekID </li>
