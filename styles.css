@@ -19,6 +19,7 @@ h1 {
 
 h2 {
   font-family: 'Courier New', monospace;
+  font-style: italic;
   color: lightgray;
   text-align: left;
   border-left: 6px solid #FFB296;
