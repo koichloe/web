@@ -1,6 +1,7 @@
 body {
   background-color: #WB1094;
   padding: 80px;
+  margin: 100px;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
   color: #FFFFFF;
   text-align: center;
   border-style: solid; 
-  border-color: red;
+  border-color: white;
   border-width: 10px;
   border-radius: 20px;
   background-color: #FFB296;
