@@ -1,3 +1,26 @@
 body {
   background-color: #WB1094
-  }
+}
+
+h1 {
+  font-family: 'Georgia', serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Courier New', monospace;
+  text-align: left;
+}
+  
+h3 {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+p {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+}
+
