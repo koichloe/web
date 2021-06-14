@@ -15,15 +15,55 @@
       been on the weekly Billboard Hot 100's Charts since 1958, the python code and analysis and read through the data set and determine 
       the songs of an artist that were on there. The data set includes a lot of information but it doesn't include the highest position 
       a song has ever reached on the charts. Which is why I included a way it could determine each song's peak position on the charts 
-      in my python code. </p>
+      in my python code. 
+    </p>
   <br>
   <h2> Instructions </h2>
     <p> After running the program, it'll ask you to input an artist (singer, band, group etc.)
-      name and then click enter. Make sure to spell it exactly as the way they're known by (like capitalization and spacing)! </p>
+      name and then click enter. Make sure to spell it exactly as the way they're known by (and same with capitalization / spacing)! 
+    </p>
   <br>
   <h2> How does it Work? </h2>
     <p> By using the input() function in python, the user is able to input an artist of their choice.
       And after the program acquires the name of an artist, it goes through each element of a modified list of the original data set. The
       modified list cuts the orignal data set into only songs that were on the charts from the 2000's. 
-       </p>
-</body>
+    </p>
+  <br>
+  <h2> Files </h2>
+    <p> final_project.py -- the python function written through thonny that accomplishes the function of this project 
+        <br>
+        Hot_Stuff.csv -- the csv file that has information on each song that has been on the Weekly Billboard Hot 100 Charts
+        <br>
+        final.html -- the html file that creates this webpage hosted through github
+        <br>
+        styles.css -- the css file that styled this webpage
+    </p>
+  <br>
+  <h2> Resources </h2>
+      <a href = https://data.world/kcmillersean/billboard-hot-100-1958-2017> Dataset <a>
+        <p> This was the offical site that I got my dataset from and with all the information it had, I could do a lot with it but I created
+          one for this project. The dataset includes information like:
+          <br>
+           <ul> 
+             <li> Billboard Chart URL </li>
+             <li> WeekID </li>
+             <li> Song name </li>
+             <li> Performer name </li>
+             <li> SongID - combination of song & performer </li>
+             <li> Current week on chart </li>
+             <li> Instance (states whata  this song has appeared on the chart) </li>
+             <li> Previous week position </li>
+             <li> Peak Position of the corresponding week </li>
+             <li> Weeks on Chart (as of the corresponding week) </li>
+           </ul>
+        </p>
+     <br>
+  <h2> Bugs, Errors and Things User Should be Aware of </h2>
+     <p> <ul>
+          <li> The user has to type in the name of the artist in the exact same way that they're known by (like Ariana Grande, and niki) </li>
+          <li> I limited the information from the charts to only songs from 2000's to 2020's because the file was originally too big </li>
+        <ul>
+     </p>
+       
+</body> 
+</html>
