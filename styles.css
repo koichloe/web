@@ -19,10 +19,10 @@ h1 {
 
 h2 {
   font-family: 'Courier New', monospace;
-  color: white;
+  color: lightgray;
   text-align: left;
   border-left: 6px solid #FFB296;
-  background-color: #ECECEC;
+  background-color: white;
   padding: 10px;
 }
   
